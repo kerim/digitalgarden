@@ -5,48 +5,21 @@ slug: kerim-s-digital-garden
 date: 2021-02-17T01:20:59.681000
 ---
 
-Welcome to Kerim's Digital Garden, a kind of personal Wikipedia. Everything is interlinked, so you can start anywhere, but I've listed some useful entry points
+Welcome to Kerim's Digital Garden, where I am testing the next generation of my personal homepage. Till this goes "live" you can [find the old one here](http://kerim.oxus.net/).
 
-## About Kerim
+## Research
 
-[My official homepage](http://kerim.oxus.net/)
+Peer-reviewed publications
 
 <span class="roam-page">[Current and Upcoming Projects](current-and-upcoming-projects)</span>
 
-My Peer-Reviewed Publications
+Other writing
 
-My Other Publications
+Visual anthropology 
 
-Visual Anthropology Projects
+## Teaching
 
-<span class="roam-page">[Contact Me](contact-me)</span>
-
-## My Research Topics
-
-Taiwan
-
-* Indigenous Taiwanese
-
-India
-
-* India's DNTs
-
-Language
-
-* Language Revitalization
-* Semiotics
-* Language and Political Economy
-
-Theory
-
-* Gramsci
-* Bourdieu
-* Foucault
-
-Political Economy
-
-* Inequality
-* Race
+Syllabi
 
 ## Guides
 
