@@ -1,8 +1,7 @@
 ---
-title: Current and Upcoming Projects
-type: 
-slug: current-and-upcoming-projects
+title: "Current and Upcoming Projects"
 date: 2021-02-17T01:49:24.063000
+
 ---
 
 ## Chair of Taiwan Studies in Leiden
