@@ -4,6 +4,8 @@ date: 2021-03-02T12:53:55.076000
 
 ---
 
+# Other Writing
+
 ## Non-peer reviewed Academic Publications
 
 [Review of Teri Silvio's book "Puppets, Gods, and Brands: Theorizing the Age of Animation from Taiwan"](https://www.ioe.sinica.edu.tw/WebTools/FilesDownload.ashx?Siteid=530164240637641451&Menuid=530167100636226027&TB=PeriodicalsContent&CN=PCID&fd=Periodicals_PDF&CNV=PDF&Pname=TJA18-2-BR1.pdf&MSID=11) in the _Taiwan Journal of Anthropology_ (Vol.18 No. 2 2020/12)

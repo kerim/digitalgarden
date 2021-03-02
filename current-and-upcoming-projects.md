@@ -4,6 +4,8 @@ date: 2021-02-17T01:49:24.063000
 
 ---
 
+# Current and Upcoming Projects
+
 ## Chair of Taiwan Studies in Leiden
 
 From February 2021 till the end of January 2022 I have received the [Professorial Fellowship for the Chair of Taiwan Studies at Leiden University](https://www.iias.asia/professorial-fellowship-chair-taiwan-studies-leiden-university), where I will be teaching one course per a semester. Because of COVID-19, I am currently still in Taiwan, teaching online, but I hope to make it to Leiden for the second semester if things improve.
