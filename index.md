@@ -10,14 +10,15 @@ P. Kerim Friedman is an associate professor in the [Department of Ethnic Relatio
 
 ## Research
 
-<span class="roam-page">[Current and Upcoming Projects](current-and-upcoming-projects)</span>
+<span class="roam-page">[[[Current and Upcoming Projects]]](current-and-upcoming-projects)</span>
 
 Peer-reviewed publications
 
-<span class="roam-page">[Other writing](other-writing)</span>
+<span class="roam-page">[[[Other writing]]](other-writing)</span>
 
 Visual anthropology 
 
 ## Teaching
 
 [Syllabi](https://kerim.oxus.net/syllabi/)
+
