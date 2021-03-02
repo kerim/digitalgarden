@@ -21,4 +21,3 @@ P. Kerim Friedman is an associate professor in the [Department of Ethnic Relatio
 ## Teaching
 
 [Syllabi](https://kerim.oxus.net/syllabi/)
-
