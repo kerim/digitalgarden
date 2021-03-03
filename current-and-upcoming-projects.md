@@ -43,11 +43,3 @@ Finally, language ideology (Schieffelin, Woolard, and Kroskrity 1998) refers to 
 Through an exploration of these themes, my research ties efforts to preserve and endangered Indigenous language to wider discussions about contemporary Taiwanese multiculturalism (Friedman 2018) and the relationship between language and identity.
 
 ## Visual Projects
-
-<div class="roam-backrefs">
-
-# 1 Reference
-
-- [Kerim's Homepage](/digitalgarden/)
-
-</div>
