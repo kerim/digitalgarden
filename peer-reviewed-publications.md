@@ -25,3 +25,11 @@ date: 2021-03-02T12:53:36.057000
 "Ethical Hegemony." In _Rethinking Marxism_, July 2009.
 
 "Duoergu (Dhol) de gushi: Guanyu Yindu yuanzhumin (Adivasis) wei ziji suo zuo de koushu zazhi." (The Story of Dhol: An "oral magazine" by, about, and for Adivasis) (Linmic, Trans.). In J. H. Cheng-feng Shih (Ed.), _Dangdai Yindu minzhu zhengzhi_. (pp. 289-308). Taipei: Taiwan guoji yanjiu xuehui chuban : han lu tushu zongjingxiao. 2007.
+
+<div markdown="1" class="roam-backrefs">
+
+# 1 Reference
+
+- [Kerim's Homepage](/digitalgarden/)
+
+</div>
