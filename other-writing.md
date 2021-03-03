@@ -21,3 +21,11 @@ date: 2021-03-02T12:53:55.076000
 [《活出語言來語言人類學導論》導讀](https://guavanthropology.tw/article/6801) (2020/03/09)
 
 * Introduction I wrote for the Chinese edition of Laura Ahern's linguistic anthropology textbook.
+
+<div class="roam-backrefs">
+
+# 1 Reference
+
+- [Kerim's Homepage](/digitalgarden/)
+
+</div>

@@ -14,14 +14,15 @@ Kerim is also a co-founder of the anthropology blog [anthro{dendum}](https://ant
 
 ## Research
 
-<span class="roam-page">[Current and Upcoming Projects](current-and-upcoming-projects)</span>
+<span class="roam-page">[[[Current and Upcoming Projects]]](current-and-upcoming-projects)</span>
 
-<span class="roam-page">[Peer-Reviewed Publications](peer-reviewed-publications)</span>
+<span class="roam-page">[[[Peer-Reviewed Publications]]](peer-reviewed-publications)</span>
 
-<span class="roam-page">[Other Writing](other-writing)</span>
+<span class="roam-page">[[[Other Writing]]](other-writing)</span>
 
-<span class="roam-page">[Visual Anthropology Projects](visual-anthropology-projects)</span>
+<span class="roam-page">[[[Visual Anthropology Projects]]](visual-anthropology-projects)</span>
 
 ## Teaching
 
 [Syllabi](https://kerim.oxus.net/syllabi/)
+
