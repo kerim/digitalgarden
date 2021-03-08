@@ -27,7 +27,11 @@ curriculum:
 
 # Nav menu
 nav_ext_links:
+
+nav_ext_links:
   - name: Blog
+  - name: Teaching
+    url:  http://kerim.oxus.net/syllabi
     url:
       zh: http://keywords.oxus.net/
       en: http://keywords.oxus.net/
