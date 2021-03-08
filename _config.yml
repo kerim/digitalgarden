@@ -21,20 +21,20 @@ author: P. Kerim Friedman 傅可恩
 email: fulaoshi@gms.ndhu.edu.tw
 github_username: kerim
 twitter_username: kerim
-author_website: http://kerim.oxus.net/
-curriculum:
-  url: https://sys.ndhu.edu.tw/RD/TeacherTreasury/tlist.aspx?tcher=10904
+author_website: http://kerim.oxus.net/digitalgarden/
+curriculum: Reserchgate
+  url: https://www.researchgate.net/profile/P-Friedman
 
 # Nav menu
 nav_ext_links:
 
 nav_ext_links:
   - name: Blog
+   url:  http://keywords.oxus.net/
   - name: Teaching
     url:  http://kerim.oxus.net/syllabi
-    url:
-      zh: http://keywords.oxus.net/
-      en: http://keywords.oxus.net/
+    zh: https://kerim.oxus.net/chinese.html
+    en: http://kerim.oxus.net/digitalgarden
 
 # Favicon
 favicon:
