@@ -1,8 +1,11 @@
 ---
 title: "Current and Upcoming Projects"
 date: 2021-02-17T01:49:24.063000
-invisible: true
+layout: about
+invisible: "true"
 ---
+
+# Current and Upcoming Projects
 
 ## Chair of Taiwan Studies in Leiden
 
@@ -41,11 +44,3 @@ Finally, language ideology (Schieffelin, Woolard, and Kroskrity 1998) refers to 
 Through an exploration of these themes, my research ties efforts to preserve and endangered Indigenous language to wider discussions about contemporary Taiwanese multiculturalism (Friedman 2018) and the relationship between language and identity.
 
 ## Visual Projects
-
-<div markdown="1" class="roam-backrefs">
-
-# 1 Reference
-
-- [Kerim's Homepage](/digitalgarden/)
-
-</div>
