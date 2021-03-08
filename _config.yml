@@ -4,7 +4,7 @@ remote_theme: kerim/academic
 title: P. Kerim Friedman 傅可恩
 description:
   zh: 國立東華大學的副教授
-  en: Associate Professor at National Dong Hwa University, Taiwan
+  en: Associate Professor at National Dong Hwa University, TAIWAN
 baseurl: "/digitalgarden/"
 url: "https://kerim.oxus.net"
 
@@ -37,7 +37,6 @@ nav_ext_links:
     url: 
       zh: http://kerim.oxus.net/syllabi
       en: http://kerim.oxus.net/syllabi
-
 
 # Favicon
 favicon:
