@@ -6,7 +6,7 @@ description:
   zh: 國立東華大學的副教授
   en: Associate Professor at National Dong Hwa University, Taiwan
 baseurl: "/digitalgarden/"
-url: "https://kerim.oxus.net/digitalgarden/"
+url: "https://kerim.oxus.net"
 
 langs: ["zh", "en"]
 defaults:
