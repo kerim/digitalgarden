@@ -1,7 +1,6 @@
 ---
 title: "Other Writing"
 date: 2021-03-02T12:53:55.076000
-layout: about
 invisible: true
 ---
 

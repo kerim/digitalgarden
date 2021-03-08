@@ -1,7 +1,6 @@
 ---
 title: "Current and Upcoming Projects"
 date: 2021-02-17T01:49:24.063000
-layout: about
 invisible: true
 ---
 
