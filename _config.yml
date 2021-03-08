@@ -22,7 +22,8 @@ email: fulaoshi@gms.ndhu.edu.tw
 github_username: kerim
 twitter_username: kerim
 author_website: http://kerim.oxus.net/digitalgarden/
-curriculum: Reserchgate
+curriculum: 
+  name: Reserchgate
   url: https://www.researchgate.net/profile/P-Friedman
 
 # Nav menu
