@@ -2,7 +2,7 @@
 title: "Contact"
 date: 2021-02-17T01:20:25.347000
 layout: about
-invisible: "false"
+invisible: false
 ---
 
 Email: [kerim.friedman@oxus.net](mailto:kerim.friedman@oxus.net)  
