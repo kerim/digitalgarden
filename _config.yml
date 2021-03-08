@@ -5,7 +5,7 @@ title: P. Kerim Friedman 傅可恩
 description:
   zh: 國立東華大學的副教授
   en: Associate Professor at National Dong Hwa University, Taiwan
-baseurl: "https://kerim.oxus.net/digitalgarden/"
+baseurl: "/digitalgarden/"
 url: "https://kerim.oxus.net/digitalgarden/"
 
 langs: ["zh", "en"]
