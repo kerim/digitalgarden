@@ -5,8 +5,6 @@ layout: about
 invisible: true
 ---
 
-# Peer-Reviewed Publications
-
 > See my [ResearchGate](https://www.researchgate.net/profile/P-Friedman) profile for academic preprints, where available. 
 
 “The Shifting Chronotopes of Indigeneity in Taiwanese Documentary Film.” In _Taiwan’s Contemporary Indigenous Peoples_, edited by Dafydd Fell and Chia-Yuan Huang. Oxon: UK: Routledge. 2021.
