@@ -1,7 +1,8 @@
 ---
 title: "Visual Anthropology Projects"
 date: 2021-03-02T12:54:24.656000
-
+layout: about
+invisible: true
 ---
 
 # Visual Anthropology Projects
