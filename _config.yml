@@ -1,12 +1,38 @@
-remote_theme: kerim/academic
+# General settings
 title: P. Kerim Friedman 傅可恩
-description: Photo by Darren Melrose
-logo: images/avatar.jpg
-show_downloads: false
+description:
+  zh: 國立東華大學的副教授
+  en: Associate Professor at National Dong Hwa University, Taiwan
+baseurl: ""
+url: "https://kerim.oxus.net/digitalgarden/"
+
+langs: ["zh", "en"]
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "zh"
+
+# Author
+author: P. Kerim Friedman 傅可恩
+
 email: fulaoshi@gms.ndhu.edu.tw
-name: ResearchGate Profile
-url: https://www.researchgate.net/profile/P-Friedman
-shortbio: Associate Professor at National Dong Hwa University, Taiwan
-author_display: true
-author_website: true
 twitter_username: kerim
+author_website: http://kerim.oxus.net/
+curriculum:
+  url: https://sys.ndhu.edu.tw/RD/TeacherTreasury/tlist.aspx?tcher=10904
+
+# Nav menu
+nav_ext_links:
+  - name: Blog
+    url:
+      zh: http://keywords.oxus.net/
+      en: http://keywords.oxus.net/
+
+# Favicon
+favicon:
+  safari: 5bbad5
+  theme: ffffff
+
+remote_theme: kerim/academic
+
