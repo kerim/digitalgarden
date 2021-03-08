@@ -27,8 +27,6 @@ curriculum: Reserchgate
 
 # Nav menu
 nav_ext_links:
-
-nav_ext_links:
   - name: Blog
    url:  http://keywords.oxus.net/
   - name: Teaching
