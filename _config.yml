@@ -1,10 +1,12 @@
 remote_theme: kerim/academic
 
 # General settings
-title: P. Kerim Friedman 傅可恩
+title: 
+  en: P. Kerim Friedman
+  zh: 傅可恩
 description:
   en: Kerim is a Taiwan-based anthropologist.
-  zh: 傅可恩
+  zh: 傅老師是一個在台灣的人類學家。
 baseurl: "/digitalgarden/"
 url: "https://kerim.oxus.net"
 
