@@ -13,7 +13,7 @@ defaults:
   - scope:
       path: ""
     values:
-      lang: "zh"
+      lang: "en"
 
 # Author
 author: P. Kerim Friedman 傅可恩
