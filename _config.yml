@@ -8,7 +8,7 @@ description:
 baseurl: "/digitalgarden/"
 url: "https://kerim.oxus.net"
 
-langs: ["en", "zh""]
+langs: ["en", "zh"]
 defaults:
   - scope:
       path: ""
