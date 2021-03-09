@@ -2,7 +2,6 @@
 title: "傅可恩"
 date: 2021-03-03T08:03:52.022000
 layout: about
-lang: zh
 
 ---
 
