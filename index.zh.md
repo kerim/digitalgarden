@@ -4,7 +4,7 @@ date: 2021-03-03T08:03:52.022000
 layout: about
 invisible: "true"
 lang: zh
-permalink: /digitalgarden/zh/
+permalink: /zh/
 
 ---
 
