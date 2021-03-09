@@ -3,8 +3,8 @@ remote_theme: kerim/academic
 # General settings
 title: P. Kerim Friedman 傅可恩
 description:
-  en: Associate Professor<br/>Dept. of Ethnic Relations & Cultures<br/>NDHU,Taiwan
-  zh: 副教授<br/>國立東華大學<br/>族群關係與文化學系
+  en: Assoc. Prof., Dept. of Ethnic Relations & Cultures<br/>NDHU, Taiwan
+  zh: 副教授，國立東華大學，族群關係與文化學系
 baseurl: "/digitalgarden/"
 url: "https://kerim.oxus.net"
 
@@ -17,13 +17,12 @@ defaults:
 
 # Author
 author: P. Kerim Friedman 傅可恩
-
 email: fulaoshi@gms.ndhu.edu.tw
 github_username: kerim
 twitter_username: kerim
 facebook_username: kerim.friedman
 curriculum: 
-  name: Researchgate
+  name: ResearchGate
   url: https://www.researchgate.net/profile/P_Friedman
 
 # Nav menu
