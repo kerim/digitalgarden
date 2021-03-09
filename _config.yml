@@ -3,7 +3,7 @@ remote_theme: kerim/academic
 # General settings
 title: P. Kerim Friedman 傅可恩
 description:
-  en: Associate Professor, Dept. of Ethnic Relations & Cultures, NDHU, Taiwan
+  en: Associate Professor<br/>National Dong Hwa Univ.<br/>Taiwan
   zh: 副教授，國立東華大學，族群關係與文化學系
 baseurl: "/digitalgarden/"
 url: "https://kerim.oxus.net"
