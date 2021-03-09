@@ -2,9 +2,7 @@
 title: "傅可恩"
 date: 2021-03-03T08:03:52.022000
 layout: about
-invisible: "true"
 lang: zh
-permalink: /digitalgarden/zh-index.html
 
 ---
 
@@ -14,4 +12,4 @@ permalink: /digitalgarden/zh-index.html
 
 An ethnographic filmmaker, he co-produced the Jean Rouch award-winning documentary, '[Please Don't Beat Me, Sir!](https://pleasedontbeatmesir.fournineandahalf.com)' about a street theater troupe from one of India's Denotified and Nomadic Tribes (DNTs). 
 
-可恩 is also a co-founder of the anthropology blog [anthro{dendum}](https://anthrodendum.org) (formerly Savage Minds). how about ...
+可恩 is also a co-founder of the anthropology blog [anthro{dendum}](https://anthrodendum.org) (formerly Savage Minds). 
