@@ -3,12 +3,12 @@ remote_theme: kerim/academic
 # General settings
 title: P. Kerim Friedman 傅可恩
 description:
-  zh: 國立東華大學的副教授
   en: Associate Professor at National Dong Hwa University, TAIWAN
+  zh: 國立東華大學的副教授
 baseurl: "/digitalgarden/"
 url: "https://kerim.oxus.net"
 
-langs: ["zh", "en"]
+langs: ["en", "zh""]
 defaults:
   - scope:
       path: ""
