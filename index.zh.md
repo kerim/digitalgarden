@@ -14,4 +14,4 @@ permalink: /digitalgarden/zh/
 
 An ethnographic filmmaker, he co-produced the Jean Rouch award-winning documentary, '[Please Don't Beat Me, Sir!](https://pleasedontbeatmesir.fournineandahalf.com)' about a street theater troupe from one of India's Denotified and Nomadic Tribes (DNTs). 
 
-可恩 is also a co-founder of the anthropology blog [anthro{dendum}](https://anthrodendum.org) (formerly Savage Minds). Hmmm.
+可恩 is also a co-founder of the anthropology blog [anthro{dendum}](https://anthrodendum.org) (formerly Savage Minds). again.
