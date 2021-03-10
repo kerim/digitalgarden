@@ -1,10 +1,21 @@
 remote_theme: kerim/academic
 
 # General settings
-title: P. Kerim Friedman 傅可恩
-description: Kerim is a Taiwan-based anthropologist. 傅老師是一個在台灣的人類學家。I guess not?
+title: 
+  en: P. Kerim Friedman
+  zh: 傅可恩
+description:
+  en: Kerim is a Taiwan-based anthropologist.
+  zh: 傅老師是一個在台灣的人類學家。
 baseurl: "/digitalgarden/"
 url: "https://kerim.oxus.net"
+
+langs: ["en", "zh"]
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "en"
 
 # Author
 author: P. Kerim Friedman 傅可恩
@@ -17,9 +28,13 @@ facebook_username: kerim.friedman
 
 nav_ext_links:
   - name: Blog
-    url: http://keywords.oxus.net
+    url:
+      zh: http://keywords.oxus.net
+      en: http://keywords.oxus.net
   - name: Teaching
-    url: http://kerim.oxus.net/syllabi
+    url: 
+      zh: http://kerim.oxus.net/syllabi
+      en: http://kerim.oxus.net/syllabi
 
 # Favicon
 favicon:
