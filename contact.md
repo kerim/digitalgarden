@@ -5,13 +5,13 @@ layout: about
 
 ---
 
-Email: [kerim.friedman@oxus.net](mailto:kerim.friedman@oxus.net)  
-
 ### Mailing Address
 
-Dr. P. Kerim Friedman<br/> 
-National Dong Hwa University<br/>  
-Department of Ethnic Relations and Cultures<br/>
-No. 1, Sec. 2, Da Hsueh Rd.<br/>  
-Shoufeng, Hualien 97401<br/>
+```plain text
+Dr. P. Kerim Friedman 
+National Dong Hwa University  
+Department of Ethnic Relations and Cultures
+No. 1, Sec. 2, Da Hsueh Rd. 
+Shoufeng, Hualien 97401
 Taiwan
+```

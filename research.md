@@ -11,7 +11,7 @@ layout: about
 
 From February 2021 till the end of January 2022 I have received the [Professorial Fellowship for the Chair of Taiwan Studies at Leiden University](https://www.iias.asia/professorial-fellowship-chair-taiwan-studies-leiden-university), where I will be teaching one course per a semester. Because of COVID-19, I am currently still in Taiwan, teaching online, but I hope to make it to Leiden for the second semester if things improve.
 
-### Select Research Publications
+### Recent Academic Publications
 
 <span class="roam-blockref">“The Shifting Chronotopes of Indigeneity in Taiwanese Documentary Film.” In _[Taiwan’s Contemporary Indigenous Peoples](https://www.routledge.com/Taiwans-Contemporary-Indigenous-Peoples/Fell-Davies-Huang/p/book/9780367553579)_, edited by Dafydd Fell and Chia-Yuan Huang. Oxon: UK: Routledge. 2021. </span>
 
@@ -19,7 +19,7 @@ From February 2021 till the end of January 2022 I have received the [Professoria
 
 <span class="roam-blockref">“[The Hegemony of the Local: Taiwanese Multiculturalism and Indigenous Identity Politics](https://doi.org/10.1215/01903659-6915593).” In “Taiwan, the Land that Colonialism Made” a special issue edited by Arif Dirlik, Liao Ping-hui, & Chuang Ya-chung. _Boundary 2_, Vol. 45, no.3. 2018. </span>
 
-Full list of <span class="roam-page">[Peer-Reviewed Publications](peer-reviewed-publications)</span>
+Full list of my <span class="roam-page">[Peer-Reviewed Publications](peer-reviewed-publications)</span>
 
 ### Select Non-Research Publications
 
