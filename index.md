@@ -3,7 +3,6 @@ title: "Kerim's Homepage"
 date: 2021-03-03T08:03:52.022000
 layout: about
 invisible: "true"
-
 ---
 
 ## About Kerim
@@ -12,4 +11,4 @@ P. Kerim Friedman is an associate professor in the [Department of Ethnic Relatio
 
 An ethnographic filmmaker, he co-produced the Jean Rouch award-winning documentary, '[Please Don't Beat Me, Sir!](https://pleasedontbeatmesir.fournineandahalf.com)' about a street theater troupe from one of India's Denotified and Nomadic Tribes (DNTs). 
 
-Kerim is also a co-founder of the anthropology blog [anthro{dendum}](https://anthrodendum.org) (formerly Savage Minds).  
+Kerim is also a co-founder of the anthropology blog [anthro{dendum}](https://anthrodendum.org) (formerly [Savage Minds](https://savageminds.org/)). His personal blog is [Keywords](https://keywords.oxus.net/). 
