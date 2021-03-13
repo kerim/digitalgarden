@@ -15,11 +15,6 @@ facebook_username: kerim.friedman
 
 # Nav menu
 
-nav_ext_links:
-  - name: Blog
-    url: http://keywords.oxus.net
-  - name: Teaching
-    url: http://kerim.oxus.net/syllabi
 
 # Favicon
 favicon:
