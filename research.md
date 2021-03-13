@@ -27,11 +27,7 @@ Full list of my <span class="roam-page">[Peer-Reviewed Publications](peer-review
 
 [Who’s Taiwanese? - The News Lens International Edition](https://international.thenewslens.com/feature/taiwan-immigration/142773) (2020/11/03)
 
-* Thoughts on Taiwanese citizenship
-
 [《活出語言來語言人類學導論》導讀](https://guavanthropology.tw/article/6801) (2020/03/09)
-
-* Introduction I wrote for the Chinese edition of Laura Ahern's linguistic anthropology textbook.
 
 ### Select Visual Projects
 
