@@ -19,7 +19,7 @@ From February 2021 till the end of January 2022 I have received the [Professoria
 
 <span class="roam-blockref">“[The Hegemony of the Local: Taiwanese Multiculturalism and Indigenous Identity Politics](https://doi.org/10.1215/01903659-6915593).” In “Taiwan, the Land that Colonialism Made” a special issue edited by Arif Dirlik, Liao Ping-hui, & Chuang Ya-chung. _Boundary 2_, Vol. 45, no.3. 2018. </span>
 
-Full list of my <span class="roam-page">[Peer-Reviewed Publications](peer-reviewed-publications)</span>
+Full list of my <span class="roam-page">[Peer-Reviewed Publications](peer-reviewed-publications)</span> here, or visit [my ResearchGate profile](https://www.researchgate.net/profile/P-Friedman) for more.
 
 ### Select Non-Research Publications
 
@@ -31,4 +31,4 @@ Full list of my <span class="roam-page">[Peer-Reviewed Publications](peer-review
 
 ### Select Visual Projects
 
-“Please Don’t Beat Me, Sir!” (74 min) With Shashwati Talukdar. A feature-length documentary about a DNT (Denotified Tribe) community in Gujarat, India, and the role that theatre has played in shaping their lives. http://dontbeatmesir.com. 2011.
+“[Please Don’t Beat Me, Sir!”](http://dontbeatmesir.com) (74 min) With [Shashwati Talukdar](https://shashwati.com/). A feature-length documentary about a DNT (Denotified Tribe) community in Gujarat, India, and the role that theatre has played in shaping their lives. 2011.
