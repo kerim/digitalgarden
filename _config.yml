@@ -1,23 +1,10 @@
-remote_theme: kerim/academic
+remote_theme: kerim/millidocs
 
-# General settings
-title: P. Kerim Friedman 傅可恩
-description: Kerim is a Taiwan-based anthropologist.
-baseurl: "/digitalgarden/"
-url: "https://kerim.oxus.net"
+title: Kerim's Digital Garden
+description: Growing ideas since 2021
+url: "https://kerim.oxus.net/digitalgarden/" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Author
-author: P. Kerim Friedman 傅可恩
-email: fulaoshi@gms.ndhu.edu.tw
-github_username: kerim
-twitter_username: kerim
-facebook_username: kerim.friedman
-
-# Nav menu
-
-
-# Favicon
-favicon:
-  safari: 5bbad5
-  theme: ffffff
+sass:
+  sass_dir: _sass
+  style: compressed
 
