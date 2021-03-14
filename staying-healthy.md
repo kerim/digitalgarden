@@ -10,6 +10,6 @@ Nothing here yet...
 
 ## 1 Reference
 
-- [Home](/)
+- [Home](/digitalgarden/)
 
 </div>

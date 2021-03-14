@@ -30,6 +30,6 @@ Charles Tilly’s PPT “[selecting a dissertation topic](http://www.ssrc.org/es
 
 ## 1 Reference
 
-- [Home](/)
+- [Home](/digitalgarden/)
 
 </div>

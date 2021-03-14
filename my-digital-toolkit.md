@@ -79,6 +79,6 @@ Transcription: [oTranscribe](https://otranscribe.com/)
 
 ## 1 Reference
 
-- [Home](/)
+- [Home](/digitalgarden/)
 
 </div>
