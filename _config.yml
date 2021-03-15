@@ -1,7 +1,7 @@
 remote_theme: kerim/millidocs
 
 title: Kerim's Digital Garden
-description: Growing ideas since 2021
+description: Growing ideas
 url: "https://kerim.oxus.net/digitalgarden/" # the base hostname & protocol for your site, e.g. http://example.com
 
 sass:
